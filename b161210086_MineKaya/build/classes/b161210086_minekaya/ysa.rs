@@ -1,0 +1,1 @@
+yapaysiniraglari2.ysa
