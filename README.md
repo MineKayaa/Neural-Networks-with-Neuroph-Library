@@ -33,3 +33,5 @@ The most common error function in multi-layered networks is ms. Basically what i
   Then I added a data set, this was the egitim.txt used in the dataset code. The data in this dataset should be between 0-1 since I used the sigmoid function. As I did in the code, I normalized this information with min-max, so they entered the range 0-1.
 
 eg Max-error = 0.01, epoch = 1000, learning coefficient = 0.5, momentum = 0.7, layer = 15
+
+![java](https://user-images.githubusercontent.com/47714688/84189894-ab142400-aa9e-11ea-8041-a146ab2237c7.png)
